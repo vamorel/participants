@@ -1,107 +1,106 @@
 [
     {
-        "name":"Gabor Szabo",
-        "github":"szabgab",
-        "twitter":"szabgab",
-        "urls":{
-            "https://szabgab.com/":"Home Page",
-            "https://pydigger.com/":"PyDigger Project"
+        "github": "szabgab",
+        "name": "Gabor Szabo",
+        "twitter": "szabgab",
+        "urls": {
+            "https://pydigger.com/": "PyDigger Project",
+            "https://szabgab.com/": "Home Page"
         }
     },
-	{
-		"name"    : "Evgeny Vainshtok",
-		"github"  : "johnikva"
-	},
-	{
-		"name"    : "Michael Horwitz",
-		"github"  : "mhorvvitz",
-		"twitter" : "mhorvvitz"
-	},
     {
-        "name"    : "Evan Chesir",
-        "github"  : "echesir",
-        "twitter" : "echesir"
-    },
-	{
-        "name"    : "Yosef Levy",
-        "github"  : "yosefl",
-        "facebook" : "yosi.levy99@gmail.com"
+        "github": "johnikva",
+        "name": "Evgeny Vainshtok"
     },
     {
-        "name":"Binyamin Kisch",
-        "github":"cjcj56"
+        "github": "mhorvvitz",
+        "name": "Michael Horwitz",
+        "twitter": "mhorvvitz"
     },
     {
-     "name"    : "Nastasya Arkhipova",
-     "github"  : "poplardown"
+        "github": "echesir",
+        "name": "Evan Chesir",
+        "twitter": "echesir"
     },
     {
-     "name"    : "Hagai Cibulski",
-     "github"  : "hagaic"
+        "facebook": "yosi.levy99@gmail.com",
+        "github": "yosefl",
+        "name": "Yosef Levy"
     },
     {
-      "name"   : "Ron Buenavida",
-      "github" : "rbuenavida"
-    },
-
-    {
-      "name"   : "Sergey Strem",
-      "github" : "SergeyLancer"
+        "github": "cjcj56",
+        "name": "Binyamin Kisch"
     },
     {
-      "name"   : "Malka Korets",
-      "github" : "MalkaNessy"
+        "github": "poplardown",
+        "name": "Nastasya Arkhipova"
     },
     {
-      "name"   : "Nahum Ben Binyamin",
-      "github" : "nahumbb",
-      "twitter": "nahumbb"
+        "github": "hagaic",
+        "name": "Hagai Cibulski"
     },
     {
-      "name"   : "Arie Lashansky",
-      "github" : "DesignByArie"
+        "github": "rbuenavida",
+        "name": "Ron Buenavida"
     },
-	{
-      "name"   : "Yishai Zaltzberg",
-      "github" : "yishaiz"
-    }, 
     {
-      "name"   : "Leora Betesh",
-      "github" : "leora-betesh",
-      "linkedin" : "linkedin.com/in/leorabetesh"
+        "github": "SergeyLancer",
+        "name": "Sergey Strem"
     },
-	{
-      "name"   : "Eli Adler",
-      "github" : "elidata"
-    } ,
-  {
-    "name": "Moti Rosenfeld",
-    "github": "rosenmor"
-  },
-  {
-    "name": "Paul Jacobson",
-    "github": "pauljacobson",
-    "twitter": "pauljacobson"
-  },
-	{
-		"name": "Chanan Eli",
-		"github": "ChananPublic"
-	},
-  {
-  "name":"Shalom Leizerovitch",
-  "github":"shazom"
-  },
-  {
-  "name":"Haim Eichenbaum",
-  "github":"HaimEich"
-  },
-  {
-	  "name":"Moti Rosenfeld",
-	  "github":"rosenmor"
-  },
-	{
-		"name"    : "Rani Amit Bar-On",
-		"github"  : "ranibaron",
-		"twitter" : "ranibaron"
-	}
+    {
+        "github": "MalkaNessy",
+        "name": "Malka Korets"
+    },
+    {
+        "github": "nahumbb",
+        "name": "Nahum Ben Binyamin",
+        "twitter": "nahumbb"
+    },
+    {
+        "github": "DesignByArie",
+        "name": "Arie Lashansky"
+    },
+    {
+        "github": "yishaiz",
+        "name": "Yishai Zaltzberg"
+    },
+    {
+        "github": "leora-betesh",
+        "linkedin": "linkedin.com/in/leorabetesh",
+        "name": "Leora Betesh"
+    },
+    {
+        "github": "elidata",
+        "name": "Eli Adler"
+    },
+    {
+        "github": "rosenmor",
+        "name": "Moti Rosenfeld"
+    },
+    {
+        "github": "pauljacobson",
+        "name": "Paul Jacobson",
+        "twitter": "pauljacobson"
+    },
+    {
+        "github": "ChananPublic",
+        "name": "Chanan Eli"
+    },
+    {
+        "github": "shazom",
+        "name": "Shalom Leizerovitch"
+    },
+    {
+        "github": "HaimEich",
+        "name": "Haim Eichenbaum"
+    },
+    {
+        "github": "rosenmor",
+        "name": "Moti Rosenfeld"
+    },
+    {
+        "github": "ranibaron",
+        "name": "Rani Amit Bar-On",
+        "twitter": "ranibaron"
+    }
 ]
