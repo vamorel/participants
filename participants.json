@@ -102,5 +102,13 @@
         "github": "ranibaron",
         "name": "Rani Amit Bar-On",
         "twitter": "ranibaron"
+    },
+    {
+        "github": "J00MZ",
+        "name": "Joe Tavin",
+        "twitter": "J00MZ",
+        "urls": {
+            "https://www.linkedin.com/in/jtavin/": "LinkedIn Profile"
+        }
     }
 ]
