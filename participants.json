@@ -99,6 +99,15 @@
         "name": "Moti Rosenfeld"
     },
     {
+        "github": "marmor",
+        "name": "Eli Marmor",
+        "twitter": "elimarmor",
+        "urls": {
+            "http://netmask.it/": "Web-Site",
+            "http://netmask.it/blog": "Blog"
+        }
+    },
+    {
         "github": "ranibaron",
         "name": "Rani Amit Bar-On",
         "twitter": "ranibaron"
