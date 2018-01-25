@@ -110,5 +110,19 @@
 	{
         "github": "ktoshka_vi",
         "name": "Vik Ost"
+  },
+    {
+        "github": "amiramke",
+        "name": "Ami Kehaty",
+        "twitter": "amiramke",
+        "linkedin": "https://www.linkedin.com/in/amiram/"
+    },
+  {
+        "github": "J00MZ",
+        "name": "Joe Tavin",
+        "twitter": "J00MZ",
+        "urls": {
+            "https://www.linkedin.com/in/jtavin/": "LinkedIn Profile"
+        }
     }
 ]
