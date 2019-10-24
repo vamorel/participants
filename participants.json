@@ -149,5 +149,9 @@
 	{
 	     "name": "CM Demo",
 		 "github": "cm-demo"
-	}
+	},
+    {
+        "name": "Eyal Fishel",
+        "github": "eyalfishel"
+    }
 ]
